@@ -1,5 +1,5 @@
-# ssb334-4
+# ssb334
 First Simple web page in Html and css
 
 
-https://faridulislam1.github.io/ssb334-4/
+https://faridulislam1.github.io/ssb334/
